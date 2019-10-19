@@ -1,2 +1,1 @@
 # flowershop
-Bootstrap project
